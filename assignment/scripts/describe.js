@@ -128,7 +128,7 @@ console log is yes
 //4. We start with three variables -- colorOne is set to 'blue' and
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
-
+*****correctAnswer****** colorOne is 'blue' and colorTwo is 'red'
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -143,7 +143,7 @@ if (mix === true) {
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4
 // -- they are so we console.log 'throw away the food!'
-
+*******correctAnswer******* line 151 is '||' which is or instead of '&' which is an
 /*
 let temp = 40;
 const time = 4;
@@ -168,4 +168,5 @@ if(minAge <= age) {
   console.log('enter');
 }
 age is equal to 21 so the const is met and console log is enter
+******correctAnswer******  minAge is <= so console.log is "no entry"
 */
